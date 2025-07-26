@@ -35,7 +35,7 @@ This project is a clean, responsive, and customizable resume layout designed to 
 ## Project Structure
 
 ```bash
-|__Webpage.pdf          # Built Webpage
 ├── index.html          # Main resume page
-├── style.css           # Styling for the resume           
-└── README.md           # Project documentation
+├── style.css           # Styling for the resume
+├── Webpage.pdf         # Built Webpage using HTML and CSS
+└── README.md           # Project documentation (this file)
