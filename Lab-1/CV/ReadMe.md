@@ -1,4 +1,4 @@
-# Krish Sundaresh K — AI Engineer Resume (HTML + CSS)
+# Krish Sundaresh K — Data Scientist CV (HTML + CSS)
 
 This is a web-based resume for **Krish Sundaresh K**, built entirely with **HTML** and **CSS** to showcase technical skills, professional experience, and project contributions in the field of **Artificial Intelligence** and **Machine Learning**.
 
